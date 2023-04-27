@@ -243,14 +243,4 @@ print(d["mom"])
 print(d,type(d))
 
 
-## Set
-# set is an unordered collection of items, every set elements is unique (no duplicates) and must be immutable (cannot be changed) 
-# {}
-
-s={20,30,50,40,20}
-print(s,type(s))
-
-
-
-##### 
- 
+#
